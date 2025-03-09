@@ -1,4 +1,4 @@
-# TPU-Sim-Go
+# Distributed TPU tensor calculation
 
 This project is a **Go** implementation of a **TPU communication simulator**. It includes simulations for various aspects of TPU computations, such as **core processing**, **parallel matrix multiplication**, and **all-reduce communication**.
 
